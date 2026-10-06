@@ -1,0 +1,366 @@
+# format: CATEGORY|PRIORITY|text   (placeholders: {TCKN} {IBAN} {CARD} {PHONE} {EMAIL} {DECOY})
+# Synthetic, LLM-written messages. No real customer data.
+CARD|P3|Kredi kartımın limitini artırmak istiyorum, nasıl başvurabilirim?
+CARD|P3|kart limitim 15.000 TL, 25.000 TL'ye çıkarılabilir mi
+CARD|P3|Bu ayki ekstrem hala gelmedi, e-posta adresime gönderebilir misiniz? {EMAIL}
+CARD|P3|Hesap kesim tarihimi ayın 15'inden 1'ine almak istiyorum.
+CARD|P3|Yeni kartım elime ulaşmadı, kargo takip numarası var mı?
+CARD|P3|kartimi aktif edemiyorum sms ile aktivasyon kodu gelmiyor yardim
+CARD|P3|Temassız ödeme özelliğini kapatmak istiyorum, nereden yapabilirim?
+CARD|P3|Sanal kart oluşturmak istiyorum internet alışverişleri için.
+CARD|P3|Ek kart başvurusu yapmak istiyorum eşim için.
+CARD|P2|Kartım bloke olmuş, market kasasında ödeme yapamadım, neden bloke edildi?
+CARD|P3|Bir e-ticaret sitesinden aldığım ürün gelmedi, harcamaya itiraz etmek istiyorum. Tutar 1.890 TL.
+CARD|P3|Aldığım televizyonu iade ettim ama 7.400 TL hala kartıma geri yansımadı.
+CARD|P3|Taksitli alışverişimi ön ödemeli kapatmak istiyorum.
+CARD|P3|Kartımın son kullanma tarihi geçiyor, yenisi ne zaman gönderilecek?
+CARD|P3|Kart şifremi unuttum, yeni şifre nasıl alabilirim?
+CARD|P3|Asgari ödeme tutarını ödedim ama sistemde ödenmemiş görünüyor.
+CARD|P3|yurtdışı alışverişe kartımı açmak istiyorum, nasıl yapılıyor
+CARD|P3|Puanlarım neden yüklenmedi? Kampanyaya katılmıştım.
+CARD|P3|Bonus puanlarımı nasıl kullanabilirim, son kullanma tarihi var mı?
+CARD|P3|Kart numaram {CARD}, ekstremde iki kez çekilmiş bir harcama var, düzeltilmesini rica ediyorum.
+CARD|P3|Banka kartımın günlük alışveriş limitini artırmak istiyorum.
+CARD|P3|Kredi kartı borcumu taksitlendirmek istiyorum, seçenekler nelerdir?
+CARD|P3|Kartıma tanımlı otomatik ödeme talimatını iptal etmek istiyorum.
+CARD|P3|Kartımı kapatmak istiyorum artık kullanmıyorum.
+CARD|P3|Online alışverişte 3D Secure şifresi gelmiyor ödeme tamamlanmıyor.
+CARD|P3|ekstre borcumu yanlışlıkla fazla ödedim, fazla tutar ne olacak
+CARD|P3|Kartımın rengini/tasarımını değiştirebilir miyim? Yenisini istiyorum.
+CARD|P2|Kartım yurtdışında bloke oldu, otelde ödeme yapamıyorum, acil açılması lazım.
+CARD|P3|Öğrenciyim, kredi kartı başvurum reddedildi, sebebini öğrenebilir miyim?
+CARD|P3|Taksit sayısını sonradan artırabilir miyim? 6 taksit yapmıştım.
+CARD|P3|Kartımın kesim tarihinden sonra yaptığım harcama hangi ekstreye yansır?
+CARD|P3|Aidatsız kart seçeneğiniz var mı? Mevcut kartımı değiştirmek istiyorum.
+CARD|P3|Ön provizyon olarak çekilen 2.500 TL ne zaman serbest kalacak? Araç kiralamıştım.
+CARD|P3|İptal ettiğim uçak biletinin ücreti kartıma iade edilmedi, havayolu iade yaptığını söylüyor.
+CARD|P3|Kart limitimin bir kısmını ek karta ayırmak istiyorum.
+CARD|P3|kartima neden nakit avans cekemiyorum
+CARD|P3|Kredi kartı ekstremde gördüğüm faiz tutarını anlamadım, açıklar mısınız?
+CARD|P3|Kartımın chip'i bozuldu, POS cihazları okumuyor, yenisini istiyorum.
+CARD|P3|Kartım kırıldı yenisini göndermenizi istiyorum, adresim değişmedi.
+CARD|P3|Kartımla yaptığım alışverişte kampanya indirimi uygulanmadı.
+CARD|P3|Debit kartım ile yurt dışından para çekme ücreti ne kadar?
+CARD|P3|Market alışverişimde kart iki kez okutuldu, biri iptal edilmedi.
+CARD|P3|Ekstre dönemini değiştirmek mümkün mü? Maaş günüme denk gelsin istiyorum.
+CARD|P3|Kartımı başka bir bankanın kartıyla birleştirebilir miyim, borç transferi yapıyor musunuz?
+CARD|P3|Kart başvurumun durumunu öğrenmek istiyorum, TC kimlik numaram {TCKN}.
+LOAN|P3|İhtiyaç kredisi faiz oranlarınız nedir? 50.000 TL çekmek istiyorum.
+LOAN|P3|Konut kredimi erken kapatmak istiyorum, ne kadar ödemem gerekiyor?
+LOAN|P3|Taşıt kredisi başvurum ne durumda, 3 gündür cevap yok.
+LOAN|P3|Kredi taksitimi bu ay ödeyemeyeceğim, erteleme imkanı var mı?
+LOAN|P2|Kredi yapılandırması yapmak istiyorum, işimi kaybettim ödeyemiyorum.
+LOAN|P3|kredi basvurum reddedildi neden reddedildigini ogrenebilir miyim
+LOAN|P3|Kredi kartı borcumu ihtiyaç kredisine çevirmek istiyorum.
+LOAN|P3|KMH faiz oranı çok yüksek, limitimi düşürmek istiyorum.
+LOAN|P3|Kredili mevduat hesabımı kapatmak istiyorum.
+LOAN|P3|Kredi ödeme planımı e-posta ile gönderebilir misiniz?
+LOAN|P3|Taksit ödeme günümü maaş günüme göre değiştirebilir miyim?
+LOAN|P2|Taksitimi zamanında ödedim ama gecikme faizi işlemiş, ayrıca Findeks notum düştü.
+LOAN|P3|Kefil olduğum kredi hakkında bilgi almak istiyorum.
+LOAN|P3|Kredi hayat sigortası zorunlu mu? İptal edebilir miyim?
+LOAN|P3|Ara ödeme yaparsam taksit tutarım düşer mi?
+LOAN|P3|Konut kredisi için ekspertiz ne zaman yapılacak?
+LOAN|P3|Kredimin kalan borç tutarını öğrenmek istiyorum.
+LOAN|P3|Kredi borcumun bitti yazısını nasıl alabilirim? İpotek kaldırmak için lazım.
+LOAN|P3|Esnaf kredisi kullanabiliyor muyum, şahıs şirketim var.
+LOAN|P3|Faiz oranı neden başvuruda gösterilenden farklı çıktı?
+LOAN|P3|Taksidim otomatik olarak hesabımdan çekilmedi, nasıl ödeyeceğim?
+LOAN|P3|Emekli maaşımı bankanıza taşırsam kredi faizinde indirim olur mu?
+LOAN|P2|Kredi borcum yüzünden icra takibi başlatıldı, görüşmek istiyorum.
+LOAN|P3|Kredi kullanmak için gelir belgesi gerekiyor mu?
+LOAN|P3|ihtiyac kredisi icin on onay almistim ama sube farkli oran soyledi
+LOAN|P3|Kredi erken kapama cezası ne kadar?
+LOAN|P3|Kredi başvurusu yapmadım ama başvurum alındı diye mesaj geldi, ne oluyor? Telefonum {PHONE}.
+LOAN|P3|Kredimi başka bankaya taşımak istiyorum, borç kapama yazısı lazım.
+LOAN|P3|Kredi taksitlerimi kredi kartıyla ödeyebilir miyim?
+LOAN|P3|Taşıt kredisinde rehin kaldırma işlemi ne zaman yapılır?
+LOAN|P3|Kredi dosyamdaki belgelerin bir kopyasını istiyorum.
+LOAN|P3|Bir ay taksit atlamak mümkün mü, ekonomik durumum zor.
+LOAN|P3|Kredimi yeniden yapılandırırsam faiz oranı değişir mi?
+LOAN|P3|Kredi notum düşük, yine de kredi alabilir miyim?
+LOAN|P3|Öğrenim kredisi gibi bir ürününüz var mı?
+LOAN|P3|Gecikmiş 2 taksitim var, toplam borcum ne kadar oldu?
+LOAN|P3|Konut kredisi için peşinat oranı yüzde kaç olmalı?
+LOAN|P3|Kredi onaylandı ama para hesabıma yatmadı, ne zaman yatar?
+LOAN|P3|Taksit tutarım neden geçen aydan farklı?
+LOAN|P3|Kredi sözleşmemin bir örneğini e-posta ile alabilir miyim?
+LOAN|P3|Faizsiz kredi kampanyanız hala devam ediyor mu?
+LOAN|P3|krediyi kapattım ama hala taksit çekiliyor hesabimdan
+LOAN|P3|Kredi taksitimi şubeden ödeyebilir miyim yoksa sadece mobilden mi?
+LOAN|P3|Ev almak istiyorum, konut kredisi için ön görüşme yapabilir miyiz?
+LOAN|P3|Kredi başvurusu için kefil gerekli mi?
+LOAN|P3|Tüketici kredisinde maksimum vade kaç ay?
+LOAN|P3|Kredi taksitimin bir kısmını ödedim, kalan için ek süre alabilir miyim?
+LOAN|P3|Kredimin faiz oranını düşürmek için ne yapabilirim?
+LOAN|P3|Ortak kredi başvurusu yapabilir miyiz eşimle?
+TRANSFER|P2|Dün akşam yaptığım EFT hala karşı hesaba geçmedi, tutar 12.000 TL.
+TRANSFER|P2|Yanlış IBAN'a para gönderdim, geri alabilir miyim? Gönderdiğim IBAN {IBAN}
+TRANSFER|P2|FAST ile gönderdiğim para hesabımdan çıktı ama alıcıya ulaşmadı.
+TRANSFER|P3|Havale limitim düşük, günlük transfer limitini artırmak istiyorum.
+TRANSFER|P2|maaşım bugün yatması gerekiyordu ama hala yatmadı, işveren gönderdik diyor
+TRANSFER|P3|Yurtdışına SWIFT ile para göndermek istiyorum, ücreti ne kadar?
+TRANSFER|P2|Yurt dışından gönderilen para 4 gündür hesabıma geçmedi.
+TRANSFER|P3|Düzenli ödeme talimatı oluşturmak istiyorum, her ay kiraya.
+TRANSFER|P3|Kira ödemesi için açıklama alanına ne yazmalıyım?
+TRANSFER|P2|EFT iade oldu ama para hesabıma geri gelmedi, 3.500 TL.
+TRANSFER|P3|Mesai dışında EFT yapabilir miyim?
+TRANSFER|P2|Gönderdiğim havale alıcı hesap kapalı diye geri döndü ama tutar eksik geldi.
+TRANSFER|P3|Kolay adres ile para göndermek istiyorum ama telefon numaramı tanımlayamıyorum.
+TRANSFER|P3|Hesabıma gelen paranın kimden geldiğini göremiyorum, dekont alabilir miyim?
+TRANSFER|P2|Kiramı yanlışlıkla iki kez gönderdim, birini iptal edebilir misiniz?
+TRANSFER|P3|Döviz hesabımdan TL hesabıma virman yapamıyorum.
+TRANSFER|P3|Gelen EFT'lerde neden alıcı adı farklı görünüyor?
+TRANSFER|P3|İleri tarihli havale talimatımı iptal etmek istiyorum.
+TRANSFER|P2|Para gönderdim, alıcının IBAN'ı doğruydu ama banka işlem başarısız dedi, para da hesabımdan düştü.
+TRANSFER|P3|FAST limiti neden 100 bin TL ile sınırlı?
+TRANSFER|P2|emekli maaşım bu ay hesaba yatmamış, ne zaman yatar
+TRANSFER|P3|Yurtdışındaki oğluma her ay para göndermek için talimat verebilir miyim?
+TRANSFER|P3|Kendi hesaplarım arasında para transferi neden ücretli?
+TRANSFER|P3|Gönderdiğim EFT'nin dekontunu bulamıyorum.
+TRANSFER|P2|Ev alımı için kapora gönderdim ama karşı taraf para gelmedi diyor, 150.000 TL.
+TRANSFER|P2|Kurumsal hesabımdan maaş ödemeleri yapılamadı, çalışanlar maaş alamadı!
+TRANSFER|P3|Kredi kartına başka bankadan para göndermek istiyorum IBAN'ı nedir?
+TRANSFER|P2|Dekont oluştu ama para karşı tarafa geçmedi, referans no {DECOY}.
+TRANSFER|P3|Havale yaparken alıcı adı uyuşmuyor uyarısı alıyorum.
+TRANSFER|P3|SWIFT kodunuzu öğrenebilir miyim?
+TRANSFER|P3|Gelen bir transferi geri göndermek istiyorum, yanlışlıkla bana gelmiş.
+TRANSFER|P2|Yanlış kişiye 8.000 TL gönderdim, kişiye ulaşamıyorum lütfen yardım edin.
+TRANSFER|P3|Döviz transferinde hangi kur uygulanıyor?
+TRANSFER|P3|Ödeme talimatım bu ay çalışmamış, faturam ödenmemiş.
+TRANSFER|P2|Para transferi hesabımdan iki kez çekildi ama karşıya bir kez gitti.
+TRANSFER|P3|Hesabıma gelen yurt dışı parası için hangi belgeler isteniyor?
+TRANSFER|P3|Transfer limitimi geçici olarak bugün için artırabilir misiniz?
+TRANSFER|P3|Bir arkadaşıma FAST ile para gönderirken alıcı bulunamadı hatası alıyorum.
+TRANSFER|P3|Otomatik virman tanımlamak istiyorum maaş hesabından birikime.
+TRANSFER|P2|Ödemem gecikti çünkü EFT'm 2 gündür bekliyor, gecikme cezası alacağım.
+TRANSFER|P3|EFT saatleri nedir, hafta sonu gönderilen ne zaman geçer?
+TRANSFER|P3|Gelen havalenin açıklamasını görüntüleyemiyorum.
+TRANSFER|P3|Yurt dışından gelen paranın masrafı neden kesildi?
+TRANSFER|P2|Gönderdiğim para alıcıya gitmedi, hesabımda da yok, para kayboldu sanki.
+TRANSFER|P3|Ortak hesaptan transfer için iki onay gerekiyor mu?
+FRAUD|P1|Kartım çalındı, hemen kapatılmasını istiyorum!
+FRAUD|P1|Hesabımdan bilgim dışında 4.500 TL çekilmiş, ben böyle bir işlem yapmadım.
+FRAUD|P1|Kendini banka görevlisi olarak tanıtan biri aradı, şifremi verdim, hesabımı korur musunuz?
+FRAUD|P1|Kartımı kaybettim, kimse kullanmasın diye kapatın lütfen.
+FRAUD|P1|kartimdan tanimadigim bir siteden yurtdisi harcamasi yapilmis acil
+FRAUD|P1|SMS ile gelen linke tıkladım ve bilgilerimi girdim, şimdi hesabımdan para çekildi.
+FRAUD|P1|Mobil bankacılığıma başkası girmiş, şifrem değişmiş, ben değiştirmedim.
+FRAUD|P1|Telefonumun hattı aniden kapandı ve ardından hesabımdan para transferi yapıldı.
+FRAUD|P1|Cüzdanım çalındı içinde banka kartım ve kimliğim vardı, TC: {TCKN}
+FRAUD|P1|Bilgim dışında adıma kredi çekilmiş, hiç başvurmadım!
+FRAUD|P1|Kartım hala bende ama ekstremde 3 tane tanımadığım harcama var.
+FRAUD|P1|Bana gelen onay kodunu bir kargo görevlisine söyledim, sonra hesabımdan 12.000 TL gitti.
+FRAUD|P1|Dolandırıldım, sahte bir siteye kart bilgilerimi girdim, kart no {CARD}
+FRAUD|P1|Hesabımdan bilmediğim bir IBAN'a para gönderilmiş.
+FRAUD|P1|ATM'de kartımı unuttum ve döndüğümde yoktu, kartı kapatın.
+FRAUD|P2|Bankanız adına sahte bir SMS aldım, bilgilendirmek istedim, linke tıklamadım.
+FRAUD|P1|İnternet bankacılığı şifremin ele geçirildiğini düşünüyorum, hesabımı dondurun.
+FRAUD|P1|annemin hesabından telefon dolandırıcıları para çekmiş, ne yapabiliriz
+FRAUD|P1|Gece 3'te kartımdan art arda 5 işlem yapılmış, ben uyuyordum.
+FRAUD|P2|Kendini polis olarak tanıtan biri aradı, hesabımdaki parayı başka hesaba aktarmamı istedi, yapmadım ama endişeliyim.
+FRAUD|P1|Kart bilgilerim çalınmış olabilir, şüpheli bir mail adresi kart numaramı biliyordu.
+FRAUD|P1|Kimliğim kayboldu, adıma hesap açılmasından korkuyorum, önlem alın.
+FRAUD|P1|Telefonum çalındı, mobil bankacılık uygulaması açıktı, hesabıma erişimi kapatın.
+FRAUD|P1|Tanımadığım biri benim adıma kart başvurusu yapmış, SMS geldi.
+FRAUD|P1|Kartımın kopyalandığını düşünüyorum, yurtdışında ATM'den para çekilmiş.
+FRAUD|P2|Sahte banka uygulaması indirdim galiba, bilgilerimi girmeden sildim, risk var mı?
+FRAUD|P1|Hesabımdaki tüm para başka hesaba aktarılmış, ben yapmadım, polise de gideceğim.
+FRAUD|P1|izinsiz para cekildi hesabim bosaltildi lutfen yardim edin
+FRAUD|P1|Kartım çalındı ve hırsız temassız ile birkaç alışveriş yapmış.
+FRAUD|P1|Benden habersiz e-posta adresim ve telefonum değiştirilmiş hesabımda.
+FRAUD|P1|Bilgim olmadan sanal kart oluşturulmuş ve harcama yapılmış.
+FRAUD|P2|WhatsApp'tan banka müşteri temsilcisi olduğunu söyleyen biri yazdı, gerçek mi?
+FRAUD|P1|Şifremi bir sitede paylaştım, kartım kötüye kullanılabilir, kapatın.
+FRAUD|P1|Kartım posta kutusundan çalınmış olabilir, hiç elime ulaşmadı ama harcama yapılmış.
+FRAUD|P1|Online alışveriş sitesinde ödeme yaptıktan sonra kartımdan defalarca para çekildi.
+FRAUD|P1|Tanımadığım bir numaradan gelen kodu birine söyledim, hesabım tehlikede.
+FRAUD|P1|Yaşlı babamı arayıp banka görevlisiyiz diyerek kart şifresini almışlar.
+FRAUD|P1|Kartımı kaybettim, son kullandığım yer bir restorandı.
+FRAUD|P1|Hesabımda bilmediğim bir kredi kullanımı ve para çıkışı var.
+FRAUD|P1|Telefonuma gelen 3D secure kodlarını ben istemedim, birisi kartımla alışveriş yapmaya çalışıyor.
+FRAUD|P2|E-postama bankanızdan geliyormuş gibi bir mail geldi, şifremi istiyor, bildiriyorum.
+FRAUD|P1|Çantam çalındı içinde 2 kartım vardı, ikisini de iptal edin.
+FRAUD|P1|Kartımla benim yapmadığım bir kumar sitesine ödeme yapılmış.
+FRAUD|P1|Birisi hesabıma girip otomatik ödeme talimatları eklemiş.
+FRAUD|P1|Dolandırıcılar beni kandırdı, kendi elimle başka hesaba 25.000 TL gönderdim, geri alınabilir mi?
+DIGITAL|P3|Mobil uygulamaya giriş yapamıyorum, sürekli hata veriyor.
+DIGITAL|P3|İnternet şubesi şifremi unuttum, nasıl sıfırlarım?
+DIGITAL|P3|SMS ile doğrulama kodu gelmiyor, uygulamaya giremiyorum.
+DIGITAL|P3|Uygulamayı güncelledikten sonra sürekli kapanıyor.
+DIGITAL|P3|yeni telefona gectim mobil bankacilik aktivasyonu yapamiyorum
+DIGITAL|P3|Yüz tanıma ile giriş özelliği çalışmıyor.
+DIGITAL|P3|Uygulamada hesap hareketlerim görünmüyor, boş sayfa açılıyor.
+DIGITAL|P3|Mobil uygulamadan fatura ödemesi yaparken hata kodu alıyorum.
+DIGITAL|P3|Uygulama çok yavaş, her işlemde dönüp duruyor.
+DIGITAL|P3|İnternet bankacılığında dekont indiremiyorum, PDF açılmıyor.
+DIGITAL|P3|Uygulamada dil seçeneğini İngilizceye çevirmek istiyorum.
+DIGITAL|P3|Mobil şifrem bloke oldu, 3 kez yanlış girdim.
+DIGITAL|P3|Uygulamada karanlık mod olmasını öneriyorum.
+DIGITAL|P3|Telefon numaram değişti, SMS'ler eski numaraya gidiyor, yeni numara {PHONE}
+DIGITAL|P3|Bildirimler gelmiyor, harcama bildirimlerini açtım ama çalışmıyor.
+DIGITAL|P3|Uygulamada yatırım hesabımı göremiyorum.
+DIGITAL|P3|Web sitenizde online başvuru formu gönderilmiyor.
+DIGITAL|P3|Mobil uygulama root'lu cihaz uyarısı veriyor ama telefonum orijinal.
+DIGITAL|P3|QR kod ile para çekme özelliği uygulamada nerede?
+DIGITAL|P3|Uygulamadan müşteri temsilcisine bağlanamıyorum, chat açılmıyor.
+DIGITAL|P3|Tablette uygulamanız çalışmıyor, sadece telefonda mı var?
+DIGITAL|P3|internet subesine girerken guvenlik resmi gosterilmiyor
+DIGITAL|P3|Uygulama ekran görüntüsü almama izin vermiyor, dekontu kaydetmek istiyorum.
+DIGITAL|P3|Uygulamadan hesap açmak istedim ama görüntülü görüşme bağlanmıyor.
+DIGITAL|P3|Mobil onay bildirimi gelmiyor, internet şubesine giriş yapamıyorum.
+DIGITAL|P3|Uygulamada e-posta adresimi güncelleyemiyorum, hata veriyor. {EMAIL}
+DIGITAL|P3|Uygulamanın yeni arayüzünü hiç beğenmedim, eski haline dönebilir mi?
+DIGITAL|P3|Huawei telefonuma uygulamayı indiremiyorum, AppGallery'de yok.
+DIGITAL|P2|Uygulama çöktüğü için kira ödememi son gün yapamadım, ne yapacağım?
+DIGITAL|P3|Uygulamada fon alım satım işlemi yapamıyorum.
+DIGITAL|P3|Şifre oluştururken hangi kurallara uymam gerekiyor, sürekli geçersiz diyor.
+DIGITAL|P3|Mobil uygulama oturumu çok çabuk kapanıyor.
+DIGITAL|P3|Uygulamada kredi kartı borcumu göremiyorum, sıfır görünüyor.
+DIGITAL|P3|Parmak izi ile giriş yaptıktan sonra uygulama donuyor.
+DIGITAL|P3|İnternet şubesinden müşteri numaramı öğrenebilir miyim?
+DIGITAL|P3|Uygulamada kayıtlı alıcılarım silinmiş.
+DIGITAL|P3|Yeni bir cihaz tanımlamak istiyorum ama eski telefonum bozuk.
+DIGITAL|P3|Mobil uygulamada döviz alırken kur ekranda güncellenmiyor.
+DIGITAL|P3|Uygulamadaki bütçe yönetimi grafikleri yanlış kategoriler gösteriyor.
+DIGITAL|P3|uygulama acilmiyor beyaz ekranda kaliyor
+DIGITAL|P3|Mobil bankacılıktan kart şifresi belirleme menüsünü bulamıyorum.
+DIGITAL|P3|E-devlet ile giriş seçeneği ekleyebilir misiniz?
+DIGITAL|P3|Akıllı saat uygulamanız var mı?
+DIGITAL|P3|Uygulamadan vergi ödemesi yaparken sistem hatası alıyorum.
+DIGITAL|P3|Hesap özetimi uygulamadan nasıl indirebilirim?
+ATM|P2|ATM kartımı yuttu, şimdi ne yapmam gerekiyor?
+ATM|P2|ATM'den 2.000 TL çekmek istedim, para çıkmadı ama hesabımdan düştü.
+ATM|P2|ATM'ye para yatırdım ama hesabıma geçmedi, 5.000 TL.
+ATM|P3|Mahalledeki ATM'niz bir haftadır bozuk, ne zaman tamir edilecek?
+ATM|P3|ATM'de para kalmamış, hafta sonu hep boş oluyor.
+ATM|P2|atmden para cekerken ekran dondu para cikmadi hesaptan dustu
+ATM|P2|ATM paranın bir kısmını verdi, 1.000 yerine 800 TL çıktı.
+ATM|P3|Kartsız para çekme işlemi ATM'de hata veriyor.
+ATM|P3|ATM'nin ekranı okunmuyor, güneş vuruyor, görme engelliler için sesli destek var mı?
+ATM|P3|Başka banka ATM'sinden para çekince ne kadar ücret kesiliyor?
+ATM|P2|ATM yatırdığım paranın bir kısmını sahte diye almadı ama makbuz da vermedi.
+ATM|P3|ATM'de günlük para çekme limitim neden düşük?
+ATM|P3|ATM'den döviz çekebilir miyim?
+ATM|P2|Kartım ATM'de sıkıştı, gece saatinde, ne yapmalıyım?
+ATM|P3|ATM'den fatura ödemesi yaptım ama makbuz çıkmadı.
+ATM|P3|ATM'nin para yatırma bölmesi çalışmıyor.
+ATM|P3|En yakın ATM'niz nerede, Kadıköy'deyim.
+ATM|P3|ATM şifre değiştirme menüsü çalışmıyor.
+ATM|P2|ATM'ye yatırdığım dolarlar hesabıma yansımadı.
+ATM|P3|Engelli dostu ATM'niz var mı? Tekerlekli sandalyeden ulaşamıyorum.
+ATM|P3|ATM'de işlem yaparken bağlantı hatası verdi, kartım iade edildi ama işlem olmadı.
+ATM|P2|ATM'den çektiğim paranın içinden yırtık banknot çıktı, değiştirilir mi?
+ATM|P3|ATM'de kredi kartıma ödeme yaptım, ödeme hala görünmüyor.
+ATM|P3|ATM sürekli işleminiz gerçekleştirilemiyor diyor.
+ATM|P3|atm de kuyruk cok uzun yeni atm koyun buraya
+ATM|P3|ATM üzerinde garip bir aparat gördüm, kart kopyalama cihazı olabilir, haber veriyorum.
+ATM|P2|Para yatırma işleminde ATM arıza verdi, paramı geri vermedi, 3.200 TL içinde kaldı.
+ATM|P3|ATM'den QR ile para çekemiyorum.
+ATM|P3|ATM'de dil seçimi yapamıyorum, hep İngilizce açılıyor.
+ATM|P3|ATM'den kredi kartıyla nakit avans çekme ücreti nedir?
+ATM|P3|ATM fişinde bakiyem yanlış görünüyor.
+ATM|P2|Yurtdışında ATM kartımı yuttu, tatildeyim, nakitsiz kaldım.
+ATM|P3|Hastane önündeki ATM'niz kaldırılmış, tekrar konulabilir mi?
+ATM|P3|ATM'den para çekerken komisyon uyarısı çıktı, kendi bankamın ATM'si olmasına rağmen.
+ATM|P2|ATM'den çekilen para sayılırken eksik çıktı, 200 TL eksik.
+ATM|P3|Gece ATM'de güvenlik yok, ışıklandırma çok kötü.
+ATM|P3|ATM ekranında dokunmatik çalışmıyor.
+ATM|P3|ATM'den IBAN'a para gönderebilir miyim?
+ATM|P2|ATM'ye para yatırırken makine kapandı, para içeride kaldı.
+ATM|P3|Kartımı ATM'de unutmamak için uyarı sesi daha yüksek olsun.
+ATM|P3|ATM'den bozuk para çıkmıyor, 10 TL'lik çekmek istiyorum.
+ATM|P3|ATM'nin kart girişi bantla kapatılmış, kullanılmıyor.
+ATM|P3|ATM işlem sırasında çok uzun bekliyor, zaman aşımı oluyor.
+ATM|P2|atm param sıkıştı çıkmadı acil yardım lazım
+ATM|P3|ATM'de hesap bakiyesi sorgulamak ücretli mi?
+FEES|P3|Hesap işletim ücreti kesilmiş, bunun iadesini istiyorum.
+FEES|P3|Kredi kartı yıllık aidatı 1.200 TL kesildi, iade talep ediyorum.
+FEES|P3|EFT masrafı neden bu kadar yüksek?
+FEES|P3|Kredi dosya masrafının iadesini istiyorum.
+FEES|P3|Hesabımdan habersiz bakım ücreti çekilmiş, kampanyalı hesabım vardı.
+FEES|P3|kart aidati iade edilsin istiyorum kullanmiyorum zaten
+FEES|P3|SMS bilgilendirme ücreti kesiliyor, iptal etmek istiyorum.
+FEES|P3|Yurtdışı harcamalarımda komisyon oranı neden yüzde 3?
+FEES|P3|Hesap özeti ücreti alınıyor, kağıt ekstre istemiyorum zaten.
+FEES|P3|Emekliyim, hesap ücretlerinden muaf olmam gerekmiyor mu?
+FEES|P3|Para çekme ücreti kesildi, kendi kartımla çektim.
+FEES|P3|Kiralık kasa ücretinize zam mı geldi?
+FEES|P3|Kredi kartı gecikme faizi haksız yere yansıtıldı, iadesini istiyorum.
+FEES|P3|Hesap kapatma için ücret alınıyor mu?
+FEES|P3|Tüm ücretlerinizin listesini görebilir miyim?
+FEES|P3|Hesabımdan 89,90 TL kart aidatı kesilmiş, aidatsız kart sözü verilmişti.
+FEES|P3|Havale komisyonu iadesi talep ediyorum, kampanya dahilindeydim.
+FEES|P3|Ücret iadesi talebim 2 haftadır sonuçlanmadı.
+FEES|P2|Aidat iadesi yapılmazsa Tüketici Hakem Heyetine başvuracağım.
+FEES|P3|POS cihazı kira bedeli çok yüksek, düşürülebilir mi?
+FEES|P3|Döviz alımında kur farkı çok yüksek, bu bir ücret mi?
+FEES|P3|Ekspertiz ücretinin iadesini istiyorum, kredi kullanmadım.
+FEES|P3|Hesap işletim ücreti neden her ay farklı?
+FEES|P3|Çek karnesi ücreti ne kadar?
+FEES|P3|Kredi kartı aidatını taksitle ödeyebilir miyim?
+FEES|P3|ucretler cok fazla hesabimi kapatacagim baska bankaya gecicem
+FEES|P3|BSMV ve KKDF kesintisi nedir, neden kesildi?
+FEES|P3|Fatura ödeme talimatı için ücret alınıyor mu?
+FEES|P3|Maaş müşterisi olmama rağmen hesap ücreti kesiliyor.
+FEES|P3|Kredili mevduat hesabı için yıllık ücret kesildi, kullanmıyorum bile.
+FEES|P3|Yatırım hesabı saklama ücreti neden kesildi?
+FEES|P3|İade edilen aidat tutarı eksik yatırıldı.
+FEES|P2|Haksız kesilen ücretleri iade etmezseniz BDDK'ya şikayet edeceğim.
+FEES|P3|Kart yenileme ücreti alınıyor mu?
+FEES|P3|Hesabıma neden 45 TL masraf yansıtıldı anlamadım.
+FEES|P3|Öğrenci hesabında ücret olmaması gerekmiyor muydu?
+FEES|P3|Nakit avans faizi ve ücretini öğrenmek istiyorum.
+FEES|P3|Hesabımda eksi bakiye çıktı çünkü ücret kesilmiş, param yoktu.
+FEES|P3|Ücret iadesi için dilekçe mi vermem gerekiyor?
+FEES|P3|Ticari hesabımdan alınan EFT ücretleri için indirim talep ediyorum.
+FEES|P3|Kart aidatının bir kısmı iade edildi, tamamını istiyorum.
+FEES|P3|Bankanızın komisyon oranları diğer bankalardan yüksek.
+FEES|P3|Hesap ücreti iadesi yapıldı ama tekrar kesildi.
+FEES|P3|Dekont ücreti alınıyor, bu normal mi?
+FEES|P3|Kampanyadan yararlanmama rağmen işlem ücreti tahsil edildi.
+BRANCH|P3|Şubede 1,5 saat bekledim, sıra hiç ilerlemedi.
+BRANCH|P3|Şubedeki personel bana çok kaba davrandı, şikayetçiyim.
+BRANCH|P3|Çağrı merkezine ulaşmak imkansız, 40 dakikadır bekliyorum.
+BRANCH|P3|Şube randevusu almak istiyorum, nasıl yapabilirim?
+BRANCH|P3|Şubenizin çalışma saatleri nedir?
+BRANCH|P3|subede danisman bana istemedigim bir sigorta urunu satti
+BRANCH|P3|Müşteri temsilcim sürekli değişiyor, kiminle görüşeceğimi bilmiyorum.
+BRANCH|P3|Şubeniz kapanmış, hesabım hangi şubeye taşındı?
+BRANCH|P3|Çağrı merkezi beni sürekli başka birime aktarıyor, sorunum çözülmedi.
+BRANCH|P3|Şubede engelli rampası yok, içeri giremedim.
+BRANCH|P3|Şube müdürü ile görüşmek istiyorum, şikayetim var.
+BRANCH|P3|Şubede hesap açtırmak için hangi belgeler gerekiyor?
+BRANCH|P3|Şubeye gittim, sistem arızası dediler, işlemimi yapamadım.
+BRANCH|P2|Müşteri hizmetleri 3 kez geri dönüş yapacağız dedi, hiç aramadı, avukatıma başvuracağım.
+BRANCH|P3|Şubede klima çalışmıyor, çok sıcak, yaşlılar bayılacak.
+BRANCH|P3|Personel bilgisiz, sorduğum soruya cevap veremedi.
+BRANCH|P3|Çağrı merkezinde yapay zeka asistanı beni anlamıyor, insana bağlanmak istiyorum.
+BRANCH|P3|Şubedeki gişe sayısı yetersiz, sadece bir gişe açık.
+BRANCH|P3|Hesabımı başka şubeye taşımak istiyorum.
+BRANCH|P3|Bana atanan portföy yöneticisi ile iletişime geçemiyorum.
+BRANCH|P3|Şubede bekleme salonu çok küçük, ayakta bekledik.
+BRANCH|P3|musteri hizmetleri telefonu yuzume kapatti
+BRANCH|P3|Teşekkür etmek istiyorum, şubedeki Ayşe Hanım çok yardımcı oldu.
+BRANCH|P3|Şube personeli kimlik fotokopimi istedi, bu KVKK'ya uygun mu?
+BRANCH|P3|Çağrı merkezi menüsü çok karışık, doğru seçeneği bulamıyorum.
+BRANCH|P3|Yeni açılan şubenizin adresi nedir?
+BRANCH|P3|Şubede hesap açılışı 2 saat sürdü, çok yavaş.
+BRANCH|P3|Görüşme taleplerime 1 haftadır geri dönüş yapılmadı.
+BRANCH|P3|Şubede güvenlik görevlisi içeri almadı, kapanışa 10 dakika vardı.
+BRANCH|P3|Vefat eden babamın hesabı için veraset işlemleri nasıl yapılır?
+BRANCH|P3|Şube çalışanı kişisel bilgilerimi yüksek sesle okudu, herkes duydu.
+BRANCH|P2|Müşteri temsilcisi yanlış bilgi verdi, bu yüzden zarara uğradım, BDDK'ya şikayet edeceğim.
+BRANCH|P3|Şubeye gelmeden vekaletname ile işlem yaptırabilir miyim?
+BRANCH|P3|Çağrı merkezi numaranız ücretli mi?
+BRANCH|P3|Şubedeki kuyruk sistemi çalışmıyor, numara alamıyoruz.
+BRANCH|P3|Şube personeli başka bankaya geçmemi tavsiye etti, çok ilginç.
+BRANCH|P3|Bana geri dönüş yapacak bir müşteri temsilcisi istiyorum, numaram {PHONE}.
+BRANCH|P3|Şubede para yatırırken dekont verilmedi.
+BRANCH|P3|Çağrı merkezinde beni 3 kez aynı bilgileri vermem için sordular.
+BRANCH|P3|Şubenin otoparkı yok, park yeri bulamıyorum.
+BRANCH|P3|Şubedeki personel sigara kokuyordu ve ilgisizdi.
+BRANCH|P3|Kurumsal müşteri temsilcimle randevu ayarlamak istiyorum.
+BRANCH|P3|Şube hafta sonu açık mı?
+BRANCH|P3|Şikayetimi kime iletmem gerekiyor, resmi bir kanal var mı?
+BRANCH|P3|Müşteri hizmetleri çalışanı çok ilgiliydi, teşekkürler.

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+models/*.joblib
+*.sqlite
+*.sqlite-*
+*.db
+eval/cache/
+.DS_Store

@@ -1,0 +1,364 @@
+{"id": "train-0000", "text": "Kredi kartımın limitini artırmak istiyorum, nasıl başvurabilirim?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0001", "text": "kart limitim 15.000 TL, 25.000 TL'ye çıkarılabilir mi", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0002", "text": "Bu ayki ekstrem hala gelmedi, e-posta adresime gönderebilir misiniz? mustafa.307@outlook.com", "category": "CARD", "priority": "P3", "pii": [{"type": "EMAIL", "start": 69, "end": 92}]}
+{"id": "train-0003", "text": "Hesap kesim tarihimi ayın 15'inden 1'ine almak istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0004", "text": "Yeni kartım elime ulaşmadı, kargo takip numarası var mı?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0005", "text": "kartimi aktif edemiyorum sms ile aktivasyon kodu gelmiyor yardim", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0006", "text": "Temassız ödeme özelliğini kapatmak istiyorum, nereden yapabilirim?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0007", "text": "Sanal kart oluşturmak istiyorum internet alışverişleri için.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0008", "text": "Ek kart başvurusu yapmak istiyorum eşim için.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0009", "text": "Kartım bloke olmuş, market kasasında ödeme yapamadım, neden bloke edildi?", "category": "CARD", "priority": "P2", "pii": []}
+{"id": "train-0010", "text": "Bir e-ticaret sitesinden aldığım ürün gelmedi, harcamaya itiraz etmek istiyorum. Tutar 1.890 TL.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0011", "text": "Aldığım televizyonu iade ettim ama 7.400 TL hala kartıma geri yansımadı.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0012", "text": "Taksitli alışverişimi ön ödemeli kapatmak istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0013", "text": "Kartımın son kullanma tarihi geçiyor, yenisi ne zaman gönderilecek?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0014", "text": "Kart şifremi unuttum, yeni şifre nasıl alabilirim?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0015", "text": "Asgari ödeme tutarını ödedim ama sistemde ödenmemiş görünüyor.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0016", "text": "yurtdışı alışverişe kartımı açmak istiyorum, nasıl yapılıyor", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0017", "text": "Puanlarım neden yüklenmedi? Kampanyaya katılmıştım.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0018", "text": "Bonus puanlarımı nasıl kullanabilirim, son kullanma tarihi var mı?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0019", "text": "Kart numaram 9792 2323 2218 3403, ekstremde iki kez çekilmiş bir harcama var, düzeltilmesini rica ediyorum.", "category": "CARD", "priority": "P3", "pii": [{"type": "CARD", "start": 13, "end": 32}]}
+{"id": "train-0020", "text": "Banka kartımın günlük alışveriş limitini artırmak istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0021", "text": "Kredi kartı borcumu taksitlendirmek istiyorum, seçenekler nelerdir?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0022", "text": "Kartıma tanımlı otomatik ödeme talimatını iptal etmek istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0023", "text": "Kartımı kapatmak istiyorum artık kullanmıyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0024", "text": "Online alışverişte 3D Secure şifresi gelmiyor ödeme tamamlanmıyor.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0025", "text": "ekstre borcumu yanlışlıkla fazla ödedim, fazla tutar ne olacak", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0026", "text": "Kartımın rengini/tasarımını değiştirebilir miyim? Yenisini istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0027", "text": "Kartım yurtdışında bloke oldu, otelde ödeme yapamıyorum, acil açılması lazım.", "category": "CARD", "priority": "P2", "pii": []}
+{"id": "train-0028", "text": "Öğrenciyim, kredi kartı başvurum reddedildi, sebebini öğrenebilir miyim?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0029", "text": "Taksit sayısını sonradan artırabilir miyim? 6 taksit yapmıştım.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0030", "text": "Kartımın kesim tarihinden sonra yaptığım harcama hangi ekstreye yansır?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0031", "text": "Aidatsız kart seçeneğiniz var mı? Mevcut kartımı değiştirmek istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0032", "text": "Ön provizyon olarak çekilen 2.500 TL ne zaman serbest kalacak? Araç kiralamıştım.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0033", "text": "İptal ettiğim uçak biletinin ücreti kartıma iade edilmedi, havayolu iade yaptığını söylüyor.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0034", "text": "Kart limitimin bir kısmını ek karta ayırmak istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0035", "text": "kartima neden nakit avans cekemiyorum", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0036", "text": "Kredi kartı ekstremde gördüğüm faiz tutarını anlamadım, açıklar mısınız?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0037", "text": "Kartımın chip'i bozuldu, POS cihazları okumuyor, yenisini istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0038", "text": "Kartım kırıldı yenisini göndermenizi istiyorum, adresim değişmedi.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0039", "text": "Kartımla yaptığım alışverişte kampanya indirimi uygulanmadı.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0040", "text": "Debit kartım ile yurt dışından para çekme ücreti ne kadar?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0041", "text": "Market alışverişimde kart iki kez okutuldu, biri iptal edilmedi.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0042", "text": "Ekstre dönemini değiştirmek mümkün mü? Maaş günüme denk gelsin istiyorum.", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0043", "text": "Kartımı başka bir bankanın kartıyla birleştirebilir miyim, borç transferi yapıyor musunuz?", "category": "CARD", "priority": "P3", "pii": []}
+{"id": "train-0044", "text": "Kart başvurumun durumunu öğrenmek istiyorum, TC kimlik numaram 72904214784.", "category": "CARD", "priority": "P3", "pii": [{"type": "TCKN", "start": 63, "end": 74}]}
+{"id": "train-0045", "text": "İhtiyaç kredisi faiz oranlarınız nedir? 50.000 TL çekmek istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0046", "text": "Konut kredimi erken kapatmak istiyorum, ne kadar ödemem gerekiyor?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0047", "text": "Taşıt kredisi başvurum ne durumda, 3 gündür cevap yok.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0048", "text": "Kredi taksitimi bu ay ödeyemeyeceğim, erteleme imkanı var mı?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0049", "text": "Kredi yapılandırması yapmak istiyorum, işimi kaybettim ödeyemiyorum.", "category": "LOAN", "priority": "P2", "pii": []}
+{"id": "train-0050", "text": "kredi basvurum reddedildi neden reddedildigini ogrenebilir miyim", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0051", "text": "Kredi kartı borcumu ihtiyaç kredisine çevirmek istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0052", "text": "KMH faiz oranı çok yüksek, limitimi düşürmek istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0053", "text": "Kredili mevduat hesabımı kapatmak istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0054", "text": "Kredi ödeme planımı e-posta ile gönderebilir misiniz?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0055", "text": "Taksit ödeme günümü maaş günüme göre değiştirebilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0056", "text": "Taksitimi zamanında ödedim ama gecikme faizi işlemiş, ayrıca Findeks notum düştü.", "category": "LOAN", "priority": "P2", "pii": []}
+{"id": "train-0057", "text": "Kefil olduğum kredi hakkında bilgi almak istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0058", "text": "Kredi hayat sigortası zorunlu mu? İptal edebilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0059", "text": "Ara ödeme yaparsam taksit tutarım düşer mi?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0060", "text": "Konut kredisi için ekspertiz ne zaman yapılacak?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0061", "text": "Kredimin kalan borç tutarını öğrenmek istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0062", "text": "Kredi borcumun bitti yazısını nasıl alabilirim? İpotek kaldırmak için lazım.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0063", "text": "Esnaf kredisi kullanabiliyor muyum, şahıs şirketim var.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0064", "text": "Faiz oranı neden başvuruda gösterilenden farklı çıktı?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0065", "text": "Taksidim otomatik olarak hesabımdan çekilmedi, nasıl ödeyeceğim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0066", "text": "Emekli maaşımı bankanıza taşırsam kredi faizinde indirim olur mu?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0067", "text": "Kredi borcum yüzünden icra takibi başlatıldı, görüşmek istiyorum.", "category": "LOAN", "priority": "P2", "pii": []}
+{"id": "train-0068", "text": "Kredi kullanmak için gelir belgesi gerekiyor mu?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0069", "text": "ihtiyac kredisi icin on onay almistim ama sube farkli oran soyledi", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0070", "text": "Kredi erken kapama cezası ne kadar?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0071", "text": "Kredi başvurusu yapmadım ama başvurum alındı diye mesaj geldi, ne oluyor? Telefonum 0555 242 42 55.", "category": "LOAN", "priority": "P3", "pii": [{"type": "PHONE", "start": 84, "end": 98}]}
+{"id": "train-0072", "text": "Kredimi başka bankaya taşımak istiyorum, borç kapama yazısı lazım.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0073", "text": "Kredi taksitlerimi kredi kartıyla ödeyebilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0074", "text": "Taşıt kredisinde rehin kaldırma işlemi ne zaman yapılır?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0075", "text": "Kredi dosyamdaki belgelerin bir kopyasını istiyorum.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0076", "text": "Bir ay taksit atlamak mümkün mü, ekonomik durumum zor.", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0077", "text": "Kredimi yeniden yapılandırırsam faiz oranı değişir mi?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0078", "text": "Kredi notum düşük, yine de kredi alabilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0079", "text": "Öğrenim kredisi gibi bir ürününüz var mı?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0080", "text": "Gecikmiş 2 taksitim var, toplam borcum ne kadar oldu?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0081", "text": "Konut kredisi için peşinat oranı yüzde kaç olmalı?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0082", "text": "Kredi onaylandı ama para hesabıma yatmadı, ne zaman yatar?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0083", "text": "Taksit tutarım neden geçen aydan farklı?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0084", "text": "Kredi sözleşmemin bir örneğini e-posta ile alabilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0085", "text": "Faizsiz kredi kampanyanız hala devam ediyor mu?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0086", "text": "krediyi kapattım ama hala taksit çekiliyor hesabimdan", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0087", "text": "Kredi taksitimi şubeden ödeyebilir miyim yoksa sadece mobilden mi?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0088", "text": "Ev almak istiyorum, konut kredisi için ön görüşme yapabilir miyiz?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0089", "text": "Kredi başvurusu için kefil gerekli mi?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0090", "text": "Tüketici kredisinde maksimum vade kaç ay?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0091", "text": "Kredi taksitimin bir kısmını ödedim, kalan için ek süre alabilir miyim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0092", "text": "Kredimin faiz oranını düşürmek için ne yapabilirim?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0093", "text": "Ortak kredi başvurusu yapabilir miyiz eşimle?", "category": "LOAN", "priority": "P3", "pii": []}
+{"id": "train-0094", "text": "Dün akşam yaptığım EFT hala karşı hesaba geçmedi, tutar 12.000 TL.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0095", "text": "Yanlış IBAN'a para gönderdim, geri alabilir miyim? Gönderdiğim IBAN TR50 6381 3089 6565 1594 7892 77", "category": "TRANSFER", "priority": "P2", "pii": [{"type": "IBAN", "start": 68, "end": 100}]}
+{"id": "train-0096", "text": "FAST ile gönderdiğim para hesabımdan çıktı ama alıcıya ulaşmadı.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0097", "text": "Havale limitim düşük, günlük transfer limitini artırmak istiyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0098", "text": "maaşım bugün yatması gerekiyordu ama hala yatmadı, işveren gönderdik diyor", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0099", "text": "Yurtdışına SWIFT ile para göndermek istiyorum, ücreti ne kadar?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0100", "text": "Yurt dışından gönderilen para 4 gündür hesabıma geçmedi.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0101", "text": "Düzenli ödeme talimatı oluşturmak istiyorum, her ay kiraya.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0102", "text": "Kira ödemesi için açıklama alanına ne yazmalıyım?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0103", "text": "EFT iade oldu ama para hesabıma geri gelmedi, 3.500 TL.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0104", "text": "Mesai dışında EFT yapabilir miyim?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0105", "text": "Gönderdiğim havale alıcı hesap kapalı diye geri döndü ama tutar eksik geldi.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0106", "text": "Kolay adres ile para göndermek istiyorum ama telefon numaramı tanımlayamıyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0107", "text": "Hesabıma gelen paranın kimden geldiğini göremiyorum, dekont alabilir miyim?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0108", "text": "Kiramı yanlışlıkla iki kez gönderdim, birini iptal edebilir misiniz?", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0109", "text": "Döviz hesabımdan TL hesabıma virman yapamıyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0110", "text": "Gelen EFT'lerde neden alıcı adı farklı görünüyor?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0111", "text": "İleri tarihli havale talimatımı iptal etmek istiyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0112", "text": "Para gönderdim, alıcının IBAN'ı doğruydu ama banka işlem başarısız dedi, para da hesabımdan düştü.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0113", "text": "FAST limiti neden 100 bin TL ile sınırlı?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0114", "text": "emekli maaşım bu ay hesaba yatmamış, ne zaman yatar", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0115", "text": "Yurtdışındaki oğluma her ay para göndermek için talimat verebilir miyim?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0116", "text": "Kendi hesaplarım arasında para transferi neden ücretli?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0117", "text": "Gönderdiğim EFT'nin dekontunu bulamıyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0118", "text": "Ev alımı için kapora gönderdim ama karşı taraf para gelmedi diyor, 150.000 TL.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0119", "text": "Kurumsal hesabımdan maaş ödemeleri yapılamadı, çalışanlar maaş alamadı!", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0120", "text": "Kredi kartına başka bankadan para göndermek istiyorum IBAN'ı nedir?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0121", "text": "Dekont oluştu ama para karşı tarafa geçmedi, referans no 33776835622.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0122", "text": "Havale yaparken alıcı adı uyuşmuyor uyarısı alıyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0123", "text": "SWIFT kodunuzu öğrenebilir miyim?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0124", "text": "Gelen bir transferi geri göndermek istiyorum, yanlışlıkla bana gelmiş.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0125", "text": "Yanlış kişiye 8.000 TL gönderdim, kişiye ulaşamıyorum lütfen yardım edin.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0126", "text": "Döviz transferinde hangi kur uygulanıyor?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0127", "text": "Ödeme talimatım bu ay çalışmamış, faturam ödenmemiş.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0128", "text": "Para transferi hesabımdan iki kez çekildi ama karşıya bir kez gitti.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0129", "text": "Hesabıma gelen yurt dışı parası için hangi belgeler isteniyor?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0130", "text": "Transfer limitimi geçici olarak bugün için artırabilir misiniz?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0131", "text": "Bir arkadaşıma FAST ile para gönderirken alıcı bulunamadı hatası alıyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0132", "text": "Otomatik virman tanımlamak istiyorum maaş hesabından birikime.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0133", "text": "Ödemem gecikti çünkü EFT'm 2 gündür bekliyor, gecikme cezası alacağım.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0134", "text": "EFT saatleri nedir, hafta sonu gönderilen ne zaman geçer?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0135", "text": "Gelen havalenin açıklamasını görüntüleyemiyorum.", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0136", "text": "Yurt dışından gelen paranın masrafı neden kesildi?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0137", "text": "Gönderdiğim para alıcıya gitmedi, hesabımda da yok, para kayboldu sanki.", "category": "TRANSFER", "priority": "P2", "pii": []}
+{"id": "train-0138", "text": "Ortak hesaptan transfer için iki onay gerekiyor mu?", "category": "TRANSFER", "priority": "P3", "pii": []}
+{"id": "train-0139", "text": "Kartım çalındı, hemen kapatılmasını istiyorum!", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0140", "text": "Hesabımdan bilgim dışında 4.500 TL çekilmiş, ben böyle bir işlem yapmadım.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0141", "text": "Kendini banka görevlisi olarak tanıtan biri aradı, şifremi verdim, hesabımı korur musunuz?", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0142", "text": "Kartımı kaybettim, kimse kullanmasın diye kapatın lütfen.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0143", "text": "kartimdan tanimadigim bir siteden yurtdisi harcamasi yapilmis acil", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0144", "text": "SMS ile gelen linke tıkladım ve bilgilerimi girdim, şimdi hesabımdan para çekildi.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0145", "text": "Mobil bankacılığıma başkası girmiş, şifrem değişmiş, ben değiştirmedim.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0146", "text": "Telefonumun hattı aniden kapandı ve ardından hesabımdan para transferi yapıldı.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0147", "text": "Cüzdanım çalındı içinde banka kartım ve kimliğim vardı, TC: 53285457458", "category": "FRAUD", "priority": "P1", "pii": [{"type": "TCKN", "start": 60, "end": 71}]}
+{"id": "train-0148", "text": "Bilgim dışında adıma kredi çekilmiş, hiç başvurmadım!", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0149", "text": "Kartım hala bende ama ekstremde 3 tane tanımadığım harcama var.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0150", "text": "Bana gelen onay kodunu bir kargo görevlisine söyledim, sonra hesabımdan 12.000 TL gitti.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0151", "text": "Dolandırıldım, sahte bir siteye kart bilgilerimi girdim, kart no 9792 4629 7839 3358", "category": "FRAUD", "priority": "P1", "pii": [{"type": "CARD", "start": 65, "end": 84}]}
+{"id": "train-0152", "text": "Hesabımdan bilmediğim bir IBAN'a para gönderilmiş.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0153", "text": "ATM'de kartımı unuttum ve döndüğümde yoktu, kartı kapatın.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0154", "text": "Bankanız adına sahte bir SMS aldım, bilgilendirmek istedim, linke tıklamadım.", "category": "FRAUD", "priority": "P2", "pii": []}
+{"id": "train-0155", "text": "İnternet bankacılığı şifremin ele geçirildiğini düşünüyorum, hesabımı dondurun.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0156", "text": "annemin hesabından telefon dolandırıcıları para çekmiş, ne yapabiliriz", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0157", "text": "Gece 3'te kartımdan art arda 5 işlem yapılmış, ben uyuyordum.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0158", "text": "Kendini polis olarak tanıtan biri aradı, hesabımdaki parayı başka hesaba aktarmamı istedi, yapmadım ama endişeliyim.", "category": "FRAUD", "priority": "P2", "pii": []}
+{"id": "train-0159", "text": "Kart bilgilerim çalınmış olabilir, şüpheli bir mail adresi kart numaramı biliyordu.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0160", "text": "Kimliğim kayboldu, adıma hesap açılmasından korkuyorum, önlem alın.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0161", "text": "Telefonum çalındı, mobil bankacılık uygulaması açıktı, hesabıma erişimi kapatın.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0162", "text": "Tanımadığım biri benim adıma kart başvurusu yapmış, SMS geldi.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0163", "text": "Kartımın kopyalandığını düşünüyorum, yurtdışında ATM'den para çekilmiş.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0164", "text": "Sahte banka uygulaması indirdim galiba, bilgilerimi girmeden sildim, risk var mı?", "category": "FRAUD", "priority": "P2", "pii": []}
+{"id": "train-0165", "text": "Hesabımdaki tüm para başka hesaba aktarılmış, ben yapmadım, polise de gideceğim.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0166", "text": "izinsiz para cekildi hesabim bosaltildi lutfen yardim edin", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0167", "text": "Kartım çalındı ve hırsız temassız ile birkaç alışveriş yapmış.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0168", "text": "Benden habersiz e-posta adresim ve telefonum değiştirilmiş hesabımda.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0169", "text": "Bilgim olmadan sanal kart oluşturulmuş ve harcama yapılmış.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0170", "text": "WhatsApp'tan banka müşteri temsilcisi olduğunu söyleyen biri yazdı, gerçek mi?", "category": "FRAUD", "priority": "P2", "pii": []}
+{"id": "train-0171", "text": "Şifremi bir sitede paylaştım, kartım kötüye kullanılabilir, kapatın.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0172", "text": "Kartım posta kutusundan çalınmış olabilir, hiç elime ulaşmadı ama harcama yapılmış.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0173", "text": "Online alışveriş sitesinde ödeme yaptıktan sonra kartımdan defalarca para çekildi.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0174", "text": "Tanımadığım bir numaradan gelen kodu birine söyledim, hesabım tehlikede.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0175", "text": "Yaşlı babamı arayıp banka görevlisiyiz diyerek kart şifresini almışlar.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0176", "text": "Kartımı kaybettim, son kullandığım yer bir restorandı.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0177", "text": "Hesabımda bilmediğim bir kredi kullanımı ve para çıkışı var.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0178", "text": "Telefonuma gelen 3D secure kodlarını ben istemedim, birisi kartımla alışveriş yapmaya çalışıyor.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0179", "text": "E-postama bankanızdan geliyormuş gibi bir mail geldi, şifremi istiyor, bildiriyorum.", "category": "FRAUD", "priority": "P2", "pii": []}
+{"id": "train-0180", "text": "Çantam çalındı içinde 2 kartım vardı, ikisini de iptal edin.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0181", "text": "Kartımla benim yapmadığım bir kumar sitesine ödeme yapılmış.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0182", "text": "Birisi hesabıma girip otomatik ödeme talimatları eklemiş.", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0183", "text": "Dolandırıcılar beni kandırdı, kendi elimle başka hesaba 25.000 TL gönderdim, geri alınabilir mi?", "category": "FRAUD", "priority": "P1", "pii": []}
+{"id": "train-0184", "text": "Mobil uygulamaya giriş yapamıyorum, sürekli hata veriyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0185", "text": "İnternet şubesi şifremi unuttum, nasıl sıfırlarım?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0186", "text": "SMS ile doğrulama kodu gelmiyor, uygulamaya giremiyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0187", "text": "Uygulamayı güncelledikten sonra sürekli kapanıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0188", "text": "yeni telefona gectim mobil bankacilik aktivasyonu yapamiyorum", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0189", "text": "Yüz tanıma ile giriş özelliği çalışmıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0190", "text": "Uygulamada hesap hareketlerim görünmüyor, boş sayfa açılıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0191", "text": "Mobil uygulamadan fatura ödemesi yaparken hata kodu alıyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0192", "text": "Uygulama çok yavaş, her işlemde dönüp duruyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0193", "text": "İnternet bankacılığında dekont indiremiyorum, PDF açılmıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0194", "text": "Uygulamada dil seçeneğini İngilizceye çevirmek istiyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0195", "text": "Mobil şifrem bloke oldu, 3 kez yanlış girdim.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0196", "text": "Uygulamada karanlık mod olmasını öneriyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0197", "text": "Telefon numaram değişti, SMS'ler eski numaraya gidiyor, yeni numara 05351756593", "category": "DIGITAL", "priority": "P3", "pii": [{"type": "PHONE", "start": 68, "end": 79}]}
+{"id": "train-0198", "text": "Bildirimler gelmiyor, harcama bildirimlerini açtım ama çalışmıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0199", "text": "Uygulamada yatırım hesabımı göremiyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0200", "text": "Web sitenizde online başvuru formu gönderilmiyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0201", "text": "Mobil uygulama root'lu cihaz uyarısı veriyor ama telefonum orijinal.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0202", "text": "QR kod ile para çekme özelliği uygulamada nerede?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0203", "text": "Uygulamadan müşteri temsilcisine bağlanamıyorum, chat açılmıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0204", "text": "Tablette uygulamanız çalışmıyor, sadece telefonda mı var?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0205", "text": "internet subesine girerken guvenlik resmi gosterilmiyor", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0206", "text": "Uygulama ekran görüntüsü almama izin vermiyor, dekontu kaydetmek istiyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0207", "text": "Uygulamadan hesap açmak istedim ama görüntülü görüşme bağlanmıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0208", "text": "Mobil onay bildirimi gelmiyor, internet şubesine giriş yapamıyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0209", "text": "Uygulamada e-posta adresimi güncelleyemiyorum, hata veriyor. fatma.409@gmail.com", "category": "DIGITAL", "priority": "P3", "pii": [{"type": "EMAIL", "start": 61, "end": 80}]}
+{"id": "train-0210", "text": "Uygulamanın yeni arayüzünü hiç beğenmedim, eski haline dönebilir mi?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0211", "text": "Huawei telefonuma uygulamayı indiremiyorum, AppGallery'de yok.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0212", "text": "Uygulama çöktüğü için kira ödememi son gün yapamadım, ne yapacağım?", "category": "DIGITAL", "priority": "P2", "pii": []}
+{"id": "train-0213", "text": "Uygulamada fon alım satım işlemi yapamıyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0214", "text": "Şifre oluştururken hangi kurallara uymam gerekiyor, sürekli geçersiz diyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0215", "text": "Mobil uygulama oturumu çok çabuk kapanıyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0216", "text": "Uygulamada kredi kartı borcumu göremiyorum, sıfır görünüyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0217", "text": "Parmak izi ile giriş yaptıktan sonra uygulama donuyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0218", "text": "İnternet şubesinden müşteri numaramı öğrenebilir miyim?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0219", "text": "Uygulamada kayıtlı alıcılarım silinmiş.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0220", "text": "Yeni bir cihaz tanımlamak istiyorum ama eski telefonum bozuk.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0221", "text": "Mobil uygulamada döviz alırken kur ekranda güncellenmiyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0222", "text": "Uygulamadaki bütçe yönetimi grafikleri yanlış kategoriler gösteriyor.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0223", "text": "uygulama acilmiyor beyaz ekranda kaliyor", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0224", "text": "Mobil bankacılıktan kart şifresi belirleme menüsünü bulamıyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0225", "text": "E-devlet ile giriş seçeneği ekleyebilir misiniz?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0226", "text": "Akıllı saat uygulamanız var mı?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0227", "text": "Uygulamadan vergi ödemesi yaparken sistem hatası alıyorum.", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0228", "text": "Hesap özetimi uygulamadan nasıl indirebilirim?", "category": "DIGITAL", "priority": "P3", "pii": []}
+{"id": "train-0229", "text": "ATM kartımı yuttu, şimdi ne yapmam gerekiyor?", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0230", "text": "ATM'den 2.000 TL çekmek istedim, para çıkmadı ama hesabımdan düştü.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0231", "text": "ATM'ye para yatırdım ama hesabıma geçmedi, 5.000 TL.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0232", "text": "Mahalledeki ATM'niz bir haftadır bozuk, ne zaman tamir edilecek?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0233", "text": "ATM'de para kalmamış, hafta sonu hep boş oluyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0234", "text": "atmden para cekerken ekran dondu para cikmadi hesaptan dustu", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0235", "text": "ATM paranın bir kısmını verdi, 1.000 yerine 800 TL çıktı.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0236", "text": "Kartsız para çekme işlemi ATM'de hata veriyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0237", "text": "ATM'nin ekranı okunmuyor, güneş vuruyor, görme engelliler için sesli destek var mı?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0238", "text": "Başka banka ATM'sinden para çekince ne kadar ücret kesiliyor?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0239", "text": "ATM yatırdığım paranın bir kısmını sahte diye almadı ama makbuz da vermedi.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0240", "text": "ATM'de günlük para çekme limitim neden düşük?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0241", "text": "ATM'den döviz çekebilir miyim?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0242", "text": "Kartım ATM'de sıkıştı, gece saatinde, ne yapmalıyım?", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0243", "text": "ATM'den fatura ödemesi yaptım ama makbuz çıkmadı.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0244", "text": "ATM'nin para yatırma bölmesi çalışmıyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0245", "text": "En yakın ATM'niz nerede, Kadıköy'deyim.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0246", "text": "ATM şifre değiştirme menüsü çalışmıyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0247", "text": "ATM'ye yatırdığım dolarlar hesabıma yansımadı.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0248", "text": "Engelli dostu ATM'niz var mı? Tekerlekli sandalyeden ulaşamıyorum.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0249", "text": "ATM'de işlem yaparken bağlantı hatası verdi, kartım iade edildi ama işlem olmadı.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0250", "text": "ATM'den çektiğim paranın içinden yırtık banknot çıktı, değiştirilir mi?", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0251", "text": "ATM'de kredi kartıma ödeme yaptım, ödeme hala görünmüyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0252", "text": "ATM sürekli işleminiz gerçekleştirilemiyor diyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0253", "text": "atm de kuyruk cok uzun yeni atm koyun buraya", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0254", "text": "ATM üzerinde garip bir aparat gördüm, kart kopyalama cihazı olabilir, haber veriyorum.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0255", "text": "Para yatırma işleminde ATM arıza verdi, paramı geri vermedi, 3.200 TL içinde kaldı.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0256", "text": "ATM'den QR ile para çekemiyorum.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0257", "text": "ATM'de dil seçimi yapamıyorum, hep İngilizce açılıyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0258", "text": "ATM'den kredi kartıyla nakit avans çekme ücreti nedir?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0259", "text": "ATM fişinde bakiyem yanlış görünüyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0260", "text": "Yurtdışında ATM kartımı yuttu, tatildeyim, nakitsiz kaldım.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0261", "text": "Hastane önündeki ATM'niz kaldırılmış, tekrar konulabilir mi?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0262", "text": "ATM'den para çekerken komisyon uyarısı çıktı, kendi bankamın ATM'si olmasına rağmen.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0263", "text": "ATM'den çekilen para sayılırken eksik çıktı, 200 TL eksik.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0264", "text": "Gece ATM'de güvenlik yok, ışıklandırma çok kötü.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0265", "text": "ATM ekranında dokunmatik çalışmıyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0266", "text": "ATM'den IBAN'a para gönderebilir miyim?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0267", "text": "ATM'ye para yatırırken makine kapandı, para içeride kaldı.", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0268", "text": "Kartımı ATM'de unutmamak için uyarı sesi daha yüksek olsun.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0269", "text": "ATM'den bozuk para çıkmıyor, 10 TL'lik çekmek istiyorum.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0270", "text": "ATM'nin kart girişi bantla kapatılmış, kullanılmıyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0271", "text": "ATM işlem sırasında çok uzun bekliyor, zaman aşımı oluyor.", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0272", "text": "atm param sıkıştı çıkmadı acil yardım lazım", "category": "ATM", "priority": "P2", "pii": []}
+{"id": "train-0273", "text": "ATM'de hesap bakiyesi sorgulamak ücretli mi?", "category": "ATM", "priority": "P3", "pii": []}
+{"id": "train-0274", "text": "Hesap işletim ücreti kesilmiş, bunun iadesini istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0275", "text": "Kredi kartı yıllık aidatı 1.200 TL kesildi, iade talep ediyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0276", "text": "EFT masrafı neden bu kadar yüksek?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0277", "text": "Kredi dosya masrafının iadesini istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0278", "text": "Hesabımdan habersiz bakım ücreti çekilmiş, kampanyalı hesabım vardı.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0279", "text": "kart aidati iade edilsin istiyorum kullanmiyorum zaten", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0280", "text": "SMS bilgilendirme ücreti kesiliyor, iptal etmek istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0281", "text": "Yurtdışı harcamalarımda komisyon oranı neden yüzde 3?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0282", "text": "Hesap özeti ücreti alınıyor, kağıt ekstre istemiyorum zaten.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0283", "text": "Emekliyim, hesap ücretlerinden muaf olmam gerekmiyor mu?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0284", "text": "Para çekme ücreti kesildi, kendi kartımla çektim.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0285", "text": "Kiralık kasa ücretinize zam mı geldi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0286", "text": "Kredi kartı gecikme faizi haksız yere yansıtıldı, iadesini istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0287", "text": "Hesap kapatma için ücret alınıyor mu?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0288", "text": "Tüm ücretlerinizin listesini görebilir miyim?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0289", "text": "Hesabımdan 89,90 TL kart aidatı kesilmiş, aidatsız kart sözü verilmişti.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0290", "text": "Havale komisyonu iadesi talep ediyorum, kampanya dahilindeydim.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0291", "text": "Ücret iadesi talebim 2 haftadır sonuçlanmadı.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0292", "text": "Aidat iadesi yapılmazsa Tüketici Hakem Heyetine başvuracağım.", "category": "FEES", "priority": "P2", "pii": []}
+{"id": "train-0293", "text": "POS cihazı kira bedeli çok yüksek, düşürülebilir mi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0294", "text": "Döviz alımında kur farkı çok yüksek, bu bir ücret mi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0295", "text": "Ekspertiz ücretinin iadesini istiyorum, kredi kullanmadım.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0296", "text": "Hesap işletim ücreti neden her ay farklı?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0297", "text": "Çek karnesi ücreti ne kadar?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0298", "text": "Kredi kartı aidatını taksitle ödeyebilir miyim?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0299", "text": "ucretler cok fazla hesabimi kapatacagim baska bankaya gecicem", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0300", "text": "BSMV ve KKDF kesintisi nedir, neden kesildi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0301", "text": "Fatura ödeme talimatı için ücret alınıyor mu?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0302", "text": "Maaş müşterisi olmama rağmen hesap ücreti kesiliyor.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0303", "text": "Kredili mevduat hesabı için yıllık ücret kesildi, kullanmıyorum bile.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0304", "text": "Yatırım hesabı saklama ücreti neden kesildi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0305", "text": "İade edilen aidat tutarı eksik yatırıldı.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0306", "text": "Haksız kesilen ücretleri iade etmezseniz BDDK'ya şikayet edeceğim.", "category": "FEES", "priority": "P2", "pii": []}
+{"id": "train-0307", "text": "Kart yenileme ücreti alınıyor mu?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0308", "text": "Hesabıma neden 45 TL masraf yansıtıldı anlamadım.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0309", "text": "Öğrenci hesabında ücret olmaması gerekmiyor muydu?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0310", "text": "Nakit avans faizi ve ücretini öğrenmek istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0311", "text": "Hesabımda eksi bakiye çıktı çünkü ücret kesilmiş, param yoktu.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0312", "text": "Ücret iadesi için dilekçe mi vermem gerekiyor?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0313", "text": "Ticari hesabımdan alınan EFT ücretleri için indirim talep ediyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0314", "text": "Kart aidatının bir kısmı iade edildi, tamamını istiyorum.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0315", "text": "Bankanızın komisyon oranları diğer bankalardan yüksek.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0316", "text": "Hesap ücreti iadesi yapıldı ama tekrar kesildi.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0317", "text": "Dekont ücreti alınıyor, bu normal mi?", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0318", "text": "Kampanyadan yararlanmama rağmen işlem ücreti tahsil edildi.", "category": "FEES", "priority": "P3", "pii": []}
+{"id": "train-0319", "text": "Şubede 1,5 saat bekledim, sıra hiç ilerlemedi.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0320", "text": "Şubedeki personel bana çok kaba davrandı, şikayetçiyim.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0321", "text": "Çağrı merkezine ulaşmak imkansız, 40 dakikadır bekliyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0322", "text": "Şube randevusu almak istiyorum, nasıl yapabilirim?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0323", "text": "Şubenizin çalışma saatleri nedir?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0324", "text": "subede danisman bana istemedigim bir sigorta urunu satti", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0325", "text": "Müşteri temsilcim sürekli değişiyor, kiminle görüşeceğimi bilmiyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0326", "text": "Şubeniz kapanmış, hesabım hangi şubeye taşındı?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0327", "text": "Çağrı merkezi beni sürekli başka birime aktarıyor, sorunum çözülmedi.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0328", "text": "Şubede engelli rampası yok, içeri giremedim.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0329", "text": "Şube müdürü ile görüşmek istiyorum, şikayetim var.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0330", "text": "Şubede hesap açtırmak için hangi belgeler gerekiyor?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0331", "text": "Şubeye gittim, sistem arızası dediler, işlemimi yapamadım.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0332", "text": "Müşteri hizmetleri 3 kez geri dönüş yapacağız dedi, hiç aramadı, avukatıma başvuracağım.", "category": "BRANCH", "priority": "P2", "pii": []}
+{"id": "train-0333", "text": "Şubede klima çalışmıyor, çok sıcak, yaşlılar bayılacak.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0334", "text": "Personel bilgisiz, sorduğum soruya cevap veremedi.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0335", "text": "Çağrı merkezinde yapay zeka asistanı beni anlamıyor, insana bağlanmak istiyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0336", "text": "Şubedeki gişe sayısı yetersiz, sadece bir gişe açık.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0337", "text": "Hesabımı başka şubeye taşımak istiyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0338", "text": "Bana atanan portföy yöneticisi ile iletişime geçemiyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0339", "text": "Şubede bekleme salonu çok küçük, ayakta bekledik.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0340", "text": "musteri hizmetleri telefonu yuzume kapatti", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0341", "text": "Teşekkür etmek istiyorum, şubedeki Ayşe Hanım çok yardımcı oldu.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0342", "text": "Şube personeli kimlik fotokopimi istedi, bu KVKK'ya uygun mu?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0343", "text": "Çağrı merkezi menüsü çok karışık, doğru seçeneği bulamıyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0344", "text": "Yeni açılan şubenizin adresi nedir?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0345", "text": "Şubede hesap açılışı 2 saat sürdü, çok yavaş.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0346", "text": "Görüşme taleplerime 1 haftadır geri dönüş yapılmadı.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0347", "text": "Şubede güvenlik görevlisi içeri almadı, kapanışa 10 dakika vardı.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0348", "text": "Vefat eden babamın hesabı için veraset işlemleri nasıl yapılır?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0349", "text": "Şube çalışanı kişisel bilgilerimi yüksek sesle okudu, herkes duydu.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0350", "text": "Müşteri temsilcisi yanlış bilgi verdi, bu yüzden zarara uğradım, BDDK'ya şikayet edeceğim.", "category": "BRANCH", "priority": "P2", "pii": []}
+{"id": "train-0351", "text": "Şubeye gelmeden vekaletname ile işlem yaptırabilir miyim?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0352", "text": "Çağrı merkezi numaranız ücretli mi?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0353", "text": "Şubedeki kuyruk sistemi çalışmıyor, numara alamıyoruz.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0354", "text": "Şube personeli başka bankaya geçmemi tavsiye etti, çok ilginç.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0355", "text": "Bana geri dönüş yapacak bir müşteri temsilcisi istiyorum, numaram 0555 988 15 38.", "category": "BRANCH", "priority": "P3", "pii": [{"type": "PHONE", "start": 66, "end": 80}]}
+{"id": "train-0356", "text": "Şubede para yatırırken dekont verilmedi.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0357", "text": "Çağrı merkezinde beni 3 kez aynı bilgileri vermem için sordular.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0358", "text": "Şubenin otoparkı yok, park yeri bulamıyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0359", "text": "Şubedeki personel sigara kokuyordu ve ilgisizdi.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0360", "text": "Kurumsal müşteri temsilcimle randevu ayarlamak istiyorum.", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0361", "text": "Şube hafta sonu açık mı?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0362", "text": "Şikayetimi kime iletmem gerekiyor, resmi bir kanal var mı?", "category": "BRANCH", "priority": "P3", "pii": []}
+{"id": "train-0363", "text": "Müşteri hizmetleri çalışanı çok ilgiliydi, teşekkürler.", "category": "BRANCH", "priority": "P3", "pii": []}
